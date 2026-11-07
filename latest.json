@@ -1,6 +1,6 @@
 {
-  "build": 17,
-  "version": "0.9.17",
-  "url": "https://github.com/hbuhrmanlll/the-last-light-updates/releases/download/build-17/the-last-light.apk",
-  "notes": "Bug fixes, and the Check for updates button now finds new versions."
+  "build": 18,
+  "version": "0.9.18",
+  "url": "https://github.com/hbuhrmanlll/the-last-light-updates/releases/download/build-18/the-last-light.apk",
+  "notes": "Bigger play area: the game now fills more of your screen, and the phone bars hide while you play."
 }
