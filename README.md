@@ -2,7 +2,7 @@
 
 A puzzle-adventure game by **Third Heaven Studios**.
 
-## ⬇️ [Download the game (Android)](https://github.com/hbuhrmanlll/the-last-light-updates/raw/main/the-last-light.apk)
+## ⬇️ [Download the game (Android)](https://github.com/hbuhrmanlll/the-last-light-updates/releases/latest/download/the-last-light.apk)
 
 ### How to install
 1. Tap the download link above on your Android phone.
