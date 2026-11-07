@@ -1,6 +1,6 @@
 {
-  "build": 18,
-  "version": "0.9.18",
-  "url": "https://github.com/hbuhrmanlll/the-last-light-updates/releases/download/build-18/the-last-light.apk",
-  "notes": "Bigger play area: the game now fills more of your screen, and the phone bars hide while you play."
+  "build": 19,
+  "version": "0.9.19",
+  "url": "https://github.com/hbuhrmanlll/the-last-light-updates/releases/download/build-19/the-last-light.apk",
+  "notes": "The play area now fits your phone: it fills the screen top to bottom, not just side to side."
 }
